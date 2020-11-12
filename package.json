@@ -1,0 +1,24 @@
+{
+  "name": "static-generator-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy build",
+    "dev": "eleventy build --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fac20/static-generator-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fac20/static-generator-practice/issues"
+  },
+  "homepage": "https://github.com/fac20/static-generator-practice#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
