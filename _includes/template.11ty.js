@@ -5,7 +5,7 @@ exports.render = (data) => {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
     <title>${data.title}</title>
   </head>
   <body>
@@ -23,7 +23,7 @@ exports.render = (data) => {
     </main>
     <footer>
     </footer>
-    <script src="scripts.js"></script>
+    <!--<script src="script.js"></script>-->
   </body>
   </html>`;
 };
